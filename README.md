@@ -2,6 +2,11 @@
 
 This project generates a video visualization of BitShares operations over time, represented as pie charts. The video shows weekly and cumulative operation distributions, making it easy to visualize trends and changes.
 
+<video controls>
+  <source src="out.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
